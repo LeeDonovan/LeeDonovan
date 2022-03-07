@@ -21,8 +21,10 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript.svg" />][js]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" />][js]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" />][java]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>][nodejs]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg"/>][python]
+[<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg"/>][html]
 
 
 
@@ -38,3 +40,6 @@
 [vscode]:https://code.visualstudio.com/
 [js]:https://www.javascript.com/
 [nodejs]:https://nodejs.org/en/
+[python]:https://www.python.org/
+[java]:https://www.java.com/download/ie_manual.jsp
+[html]:
