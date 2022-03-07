@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedInsvg)](https://www.linkedin.com/in/donovan-lee-05225620a/#gh-dark-mode-only)
+[![linkedin](./img/linkedInsvg)](https://www.linkedin.com/in/donovan-lee-05225620a/#gh-dark-mode-only)
 
 
 
