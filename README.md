@@ -11,6 +11,9 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: It will probably take you a couple tries to figure out my ethnicity!
 
+### Connect with me:
+
+[![website](./img/linkedInsvg)](https://www.linkedin.com/in/donovan-lee-05225620a/#gh-dark-mode-only)
 
 
 
@@ -26,3 +29,4 @@
 
 
 [portfolio]:https://github.com/LeeDonovan/SideProjects
+[linkedin]: https://www.linkedin.com/in/donovan-lee-05225620a/
