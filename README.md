@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="Dononan's Stats" src="https://github-readme-stats.vercel.app/api?username=LeeDonovan&show_icons=true&hide_border=false&theme=dark&count_private=true&hide=" />
+<img align="left" alt="Dononan's Stats" src="https://github-readme-stats.vercel.app/api?username=LeeDonovan&show_icons=true&hide_border=false&theme=dark&count_private=true&hide=prs" />
 
 
 
