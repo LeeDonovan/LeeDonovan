@@ -27,7 +27,9 @@
 [<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg"/>][html]
 
 
+---
 
+<img align="left" alt="Dononan's Stats" src="https://github-readme-stats.vercel.app/api?username=LeeDonovan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
 
