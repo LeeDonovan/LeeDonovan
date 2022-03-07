@@ -18,13 +18,11 @@
 
 ### Languages and Tools I Use:
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>]
 
-<br />
-<br />
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />][vscode]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/javascript.svg" />][js]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg" />][js]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>][nodejs]
 
 
 
@@ -38,3 +36,5 @@
 [portfolio]:https://github.com/LeeDonovan/SideProjects
 [linkedin]: https://www.linkedin.com/in/donovan-lee-05225620a/
 [vscode]:https://code.visualstudio.com/
+[js]:https://www.javascript.com/
+[nodejs]:https://nodejs.org/en/
